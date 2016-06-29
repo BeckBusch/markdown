@@ -1,0 +1,6 @@
+{
+  "name": "Markdown",
+  "tagline": "",
+  "body": "# This is a webpage using markdown.\r\n## That text used 1 hashtag sign to make it heading 1. This line uses 2.\r\n### This line uses 3.\r\n#### 4,\r\n##### This line uses 5 hashtags.\r\n###### this line uses 6.\r\nto see markdown code, click [here](here)  \r\nthat was a link. Cool!\r\n\r\n**If you put two asterics before and after your text, it is bold.**  \r\n_If you put an underscore before and after your text, it is italics._\r\n\r\nlook ma, an image!\r\n![this is alt text incase the image breaks](https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/cat-breed-landing-hero.ashx)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
